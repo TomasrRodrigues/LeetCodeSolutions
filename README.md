@@ -1,5 +1,9 @@
 # LeetCode Solutions ![LeetCode Solutions](https://img.shields.io/badge/LeetCode-Solutions-blueviolet?style=for-the-badge&logo=leetcode)
 
+![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-blueviolet?style=for-the-badge&logo=leetcode)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
+![Last Commit](https://img.shields.io/github/last-commit/TomasrRodrigues/LeetCodeSolutions?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/TomasrRodrigues/LeetCodeSolutions?style=flat-square)
 
 This repository contains my solutions to [LeetCode](https://leetcode.com) problems, implemented in **Python**.  
 It is a structured collection built to strengthen my understanding of algorithms, improve coding skills, and sharpen problem-solving abilities through consistent practice.
@@ -8,11 +12,13 @@ It is a structured collection built to strengthen my understanding of algorithms
 ---
 
 ## 📂 Structure
-LeetCodeSolutions/
-├── Easy/
-├── Medium/
-├── Hard/
+
+[LeetCodeSolutions/](./)<br>
+├── [Easy/](./easy)<br>
+├── [Medium/](./medium)<br>
+├── [Hard/](./hard)<br>
 └── README.md
+
 
 ---
 
@@ -54,9 +60,5 @@ You are more than welcome to open an issue if you notice anything or to reach ou
 
 ---
 
-![GitHub last commit](https://img.shields.io/github/last-commit/TomasrRodrigues/LeetCodeSolutions?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/TomasrRodrigues/LeetCodeSolutions?style=flat-square)
-
----
 
 *This repository reflects my continuous journey to master algorithms through structured, consistent practice.*
