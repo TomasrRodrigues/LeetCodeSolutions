@@ -1,4 +1,4 @@
-# LeetCode Solutions ![LeetCode Solutions](https://img.shields.io/badge/LeetCode-Solutions-blueviolet?style=for-the-badge&logo=leetcode)
+# LeetCode Solutions
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-blueviolet?style=for-the-badge&logo=leetcode)
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
@@ -62,3 +62,4 @@ You are more than welcome to open an issue if you notice anything or to reach ou
 
 
 *This repository reflects my continuous journey to master algorithms through structured, consistent practice.*
+
